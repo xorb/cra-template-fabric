@@ -1,0 +1,28 @@
+{
+  "name": "cra-template-fabric",
+  "version": "0.0.1",
+  "main": "template.json",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "fabric"
+  ],
+  "description": "The base TypeScript template for Create React App and fabric.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xorb/cra-template-fabric.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/xorb/cra-template-fabric/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
